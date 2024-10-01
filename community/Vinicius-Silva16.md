@@ -1,6 +1,6 @@
 
 # *Vincius Silva*
-#### Olá pessoal, meu nome é Vinicius e atualmente estou cursando Analise e Desenvolvimento de Sistemas. Estou realizando o este bootcamp para aprofundar meu conhecimento na área.
+#### Olá, meu nome é Vinicius e atualmente estou cursando Analise e Desenvolvimento de Sistemas. Estou realizando o este bootcamp para aprofundar meu conhecimento na área.
 ## **Conecte-se comigo**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-de-paula-1870aa228/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinus.silva/)
